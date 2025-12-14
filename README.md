@@ -1,5 +1,11 @@
 # NYC Taxi Trip Duration Prediction 🚕
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange)
+![Regression](https://img.shields.io/badge/Task-Regression-green)
+![Dataset](https://img.shields.io/badge/Dataset-NYC%20Taxi-yellow)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 ## Overview
 This repository contains an end-to-end machine learning project to predict the duration of NYC taxi trips using spatio-temporal data.
 
