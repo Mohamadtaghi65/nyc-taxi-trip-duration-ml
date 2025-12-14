@@ -39,7 +39,7 @@ The models show significant improvement over baseline after feature engineering,
 ## Notebook
 The full implementation and analysis can be found in the Kaggle notebook:
 
-[👉 **Kaggle Notebook:** *(add link here)*](https://www.kaggle.com/code/mohammadtaghipro/linear-regression-random-forest-xgboost-nyc-taxi)
+(https://www.kaggle.com/code/mohammadtaghipro/linear-regression-random-forest-xgboost-nyc-taxi)
 
 ## Next Improvements
 - Cross-validation  
