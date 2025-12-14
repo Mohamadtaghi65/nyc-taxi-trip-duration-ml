@@ -54,4 +54,4 @@ The full implementation and analysis can be found in the Kaggle notebook:
 - Transition to a production-style pipeline  
 
 ## Author
-Mohammadtaghi Rezaei Hosseinabadiuu
+Mohammadtaghi Rezaei Hosseinabadi
